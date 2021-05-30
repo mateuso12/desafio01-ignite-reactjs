@@ -1,1 +1,1 @@
-<h1 text-align = "center"> Primeiro desafio da trilha de React </h1> 
+<h1 style {text-align = "center"}> Primeiro desafio da trilha de React </h1> 
